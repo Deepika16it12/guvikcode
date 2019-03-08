@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class Consonants {
+class Consonantstring {
 
     public static void main(String[] args) {
 int count=0;
